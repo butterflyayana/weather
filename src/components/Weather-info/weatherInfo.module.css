@@ -1,0 +1,12 @@
+.info {
+    width: 324px;
+    height: 537px;
+    border-radius: 40px;
+    background: #deab4d;
+}
+
+@media (max-width: 768px){
+    .info {
+        display: none;
+    }
+}
