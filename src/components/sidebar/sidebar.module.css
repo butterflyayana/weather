@@ -5,6 +5,17 @@
     background: #deab4d;
     padding: 20px;
 }
+.menu {
+    padding-top: 3rem;
+}
+.icmenu {
+    width: 95px;
+    height: 78px;
+    margin-top: 1rem;
+    margin-left: -1rem;
+} 
+
+
 
 @media (max-width: 768px){
     .sidebar {

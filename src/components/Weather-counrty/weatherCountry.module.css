@@ -10,6 +10,26 @@
     height: 262px;
     margin-bottom: 0;
 }
+.text {
+    margin-left: 2.5rem;
+    margin-top: -1.8rem;
+}
+.away {
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.52px;
+    color: #2B261D;
+}
+.pic{
+    display: flex;
+    gap: 30px;
+    margin-top: 1rem;
+}
+.aw {
+    display: flex;
+    gap: 9.8rem;
+}
 
 @media (max-width: 768px){
     .country__wrap:first-child {
