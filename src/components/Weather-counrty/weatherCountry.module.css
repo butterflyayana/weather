@@ -30,8 +30,14 @@
     display: flex;
     gap: 9.8rem;
 }
+.country__wrapMiddle {
+    display: none;
+}
 
 @media (max-width: 768px){
+    .country__wrapMiddle {
+        display: block;
+    }
     .country__wrap:first-child {
         display: none;
     }

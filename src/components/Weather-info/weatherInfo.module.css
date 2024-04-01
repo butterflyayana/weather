@@ -3,6 +3,9 @@
     height: 537px;
     border-radius: 40px;
     background: #deab4d;
+    padding-top: 34px;
+    padding-left: 20px;
+    padding-top: 20px;
 }
 
 @media (max-width: 768px){
